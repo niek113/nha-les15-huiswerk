@@ -1,0 +1,58 @@
+
+body {
+    background-color:aliceblue;
+}
+
+header {
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 5px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+main {
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 5px;
+    background-color: lightcyaan;
+    text-align: center;
+}
+
+footer {
+    background-color: antiquewhite
+}
+
+ul a{
+    color: white;
+    text-decoration: none;
+}
+
+ul a:hover {
+    color: brown;
+}
+
+li {
+    display: inline-block;
+    width: 130px;
+    height: 20px;
+    background-color: brown;
+    text-align: center;
+}
+
+li:hover {
+    background-color: white;
+}
+
+footer {
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 5px;
+}
+
+footer p {
+    text-align: center;
+    font-size: 12px;
+    color: gray;
+    margin-top: 20px;
+}
